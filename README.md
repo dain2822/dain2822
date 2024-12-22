@@ -19,6 +19,18 @@
 <span>
   <img src="https://img.shields.io/badge/ Expo-ede9e6?style=flat-square&logo=Expo&logoColor=000020"/>
 </span>
+<span>
+  <img src="https://img.shields.io/badge/ Flask-ede9e6?style=flat-square&logo=Flask&logoColor=000020"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/ Node.js-ede9e6?style=flat-square&logo=Node.js&logoColor=000020"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/ Git-ede9e6?style=flat-square&logo=Git&logoColor=000020"/>
+</span>
+<span>
+  <img src="https://img.shields.io/badge/ GitHub-ede9e6?style=flat-square&logo=GitHub&logoColor=000020"/>
+</span>
 
 ---
 
@@ -31,4 +43,10 @@
 <!-- 활동 그래프 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dain2822&bg_color=fff&hide_border=true&line=ffd976&title_color=F7360087&color=F7360087&point=ffa74c" width=94%/>
 </div>
+<br><br>
+
+<!-- 풋터 -->
+<div align = "center">
+<!-- 헤더 -->
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:fec6a1,25:fce0cf,50:f2b2ae,75:feae7a,100:ffe4b5&height=120&section=footer" width="100%"/>
 <br><br>
